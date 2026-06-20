@@ -5,37 +5,52 @@ h1{
 #heading-2{
     color:red;
 }
-.heading{
+.heading {
     color:purple;
 }
-.para{
+.para {
     border:3px;
     border-style:solid;
     border-color:greenyellow;
     padding:20px;
     text-align:center;
 }
-.navbar{
-    border:4px;
+.navbar {
+    border:2px black;
     border-style:solid;
     border-color:palevioletred;
-    padding:15px;
+    padding:10px;
     background-color:lightsalmon;
     text-align:center;
 }
-.navbar a{
+.navbar a {
     color:cornflowerblue;
-    padding:15px;
+    padding:10px;
     text-decoration:none;
     
 
 }
-.navbar a:hover{
+.navbar a:hover {
     background-color:darkgray;
     color:rgb(37, 78, 160);
 
 
 }
-body{
-    margin:0;
+body {
+    margin:0px;
+}
+.card {
+    border:2px solid black;
+    width:300px;
+    text-align : center;
+    margin-top:20px;
+    margin: 100pxauto;
+
+
+
+}
+.card img {
+    width:100%;
+    text-align:center;
+
 }
